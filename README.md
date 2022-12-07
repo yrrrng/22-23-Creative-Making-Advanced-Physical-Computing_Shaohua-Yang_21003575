@@ -42,4 +42,22 @@ For the second time, we chose TPU material in order to ensure that the model cou
 
 ![Cow10](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.4.jpeg "Cow10")
 
+Video Link:https://youtu.be/WPabZxyZ1QQ
 
+![Cow11](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.5.jpeg "Cow11")
+
+Video Link:https://youtube.com/shorts/ITLHfm4dm1w?feature=share
+
+After the leaves were completed, we decided to assemble the model of the flowerpot ourselves in order to avoid unnecessary time wastage. Start by drawing a sketch of the flowerpot.
+
+![Cow12](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.6.jpeg "Cow12")
+
+The wood was then purchased to be cut and the box to hold the flower pots, as well as the Arduino, was assembled.
+
+![Cow13](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.7.jpeg "Cow13")
+
+![Cow14](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.8.jpeg "Cow14")
+
+![Cow15](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.9.jpeg "Cow15")
+
+Video Link: https://youtu.be/cBQJ8cE_FKw
