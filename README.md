@@ -61,3 +61,9 @@ The wood was then purchased to be cut and the box to hold the flower pots, as we
 ![Cow15](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.9.jpeg "Cow15")
 
 Video Link: https://youtu.be/cBQJ8cE_FKw
+
+**Week 8 - Circuits and soldering**
+
+In the last week, we have built the leaf model and the potting box, and at the same time the sensor equipment from amazon has arrived, but confusingly the ceramic heater we bought is 12v, and as Jin Yu and I both have mac computers borrowed a windows host from a friend to keep our computers from being damaged, so we were able to start. We decided to solder the circuits and connect the sensors and test if they worked this week. As Eagle, Kicad, and Tinkercad did not have the sensors we needed, we chose to use fritzing to draw out the wiring diagrams. and to list the individual interfaces in an Excel sheet.    
+
+![Cow16](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.9.jpeg "Cow16")
