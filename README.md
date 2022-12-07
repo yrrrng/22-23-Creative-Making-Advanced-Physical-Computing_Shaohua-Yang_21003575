@@ -138,6 +138,7 @@ We finally placed the connected sensors in the box, but the box was so small tha
 
 ![Cow28](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.5.jpeg "Cow28")
 
+![Cow29](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.6.jpeg "Cow29")
 
 Test Video Link:https://youtube.com/shorts/tmuZWZ4Tbio
 
