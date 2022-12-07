@@ -4,7 +4,7 @@ The project was completed together with Jin Yu(21016015).
 
 Week 6:Concept, draft
 
-![Cow1](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/image/week6.jpeg "Cow1")
+
 
 -This week I've been brainstorming with Jin Yu about people and plants and have chosen a direction to go in. We can easily tell when our pets are bored, angry or unwell by their sounds and movements, but caring for plants is not so easy. Nowadays, with the rise in material living standards, more and more potted plants are being introduced into people's homes, which are often used for decorative purposes while neglecting the plants' state of life, which can be a chronic torture for them in the long term. So in this project, we look at how plants face danger and explore how to bring plants and people closer together. In order to foster a closer relationship between people and plants, we nest the relationship between the 'carer' and the 'cared for and in this way strengthen this bond, promoting a greater appreciation of plants.
 
