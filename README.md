@@ -2,7 +2,7 @@
 
 The project was completed together with Jin Yu(21016015).
 
-Week 6:Concept, draft
+**Week 6:**Concept, draft
 
 ![Cow1](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week6.jpeg "Cow1")
 
