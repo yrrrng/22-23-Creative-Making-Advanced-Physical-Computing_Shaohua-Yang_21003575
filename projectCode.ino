@@ -1,6 +1,6 @@
 
 
-#include "DHT.h"
+#include "DHT.h" //Shaohua Yang
 #include <CapacitiveSensor.h>
 #define DHTPIN 4                                    // Digital pin connected to the DHT sensor
 #define DHTTYPE DHT11                               // DHT 11
