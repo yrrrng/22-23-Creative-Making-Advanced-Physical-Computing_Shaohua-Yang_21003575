@@ -39,3 +39,8 @@ However, as the school's appointment times were beyond what we could accept, we 
 
 
 ![Cow9](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.3.jpeg "Cow9")
+
+For the second time, we chose TPU material in order to ensure that the model could be printed smoothly. During the printing process, we cut the structure of the model in order to guarantee the stability of the support before it could be printed smoothly.
+
+
+![Cow10](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.3.jpeg "Cow10")
