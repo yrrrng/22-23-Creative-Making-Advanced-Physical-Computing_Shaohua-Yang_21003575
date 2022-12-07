@@ -91,3 +91,27 @@ It was found that some of the sensor's 5v was miswired to GND and that the Mp3 p
 We then rewired and removed the excess solder from the Mp3 player with a solder picker before powering it up.
 
 ![Cow23](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.8.jpeg "Cow23")
+
+**Week 9 - Code and testing**
+
+After testing the sensors last week, we continued to write and test the code in parallel this week and prepared this week's presentation by first editing the overall logic and documenting it in a documented form.
+
+**1**. When the temperature (below or above 20°C to 32°C) and the soil (humidity less than 40%) are not normal, the mp3 makes a sound (recorded audio in mp3 format and imported into the player module), the heating ceramic of the artificial leaves heats up and the red breathing light comes on.
+**2**. When the temperature and humidity are normal: the mp3 plays a greeting audio when a person approaches the plant through distance sensing.
+**3**. Under normal temperature and humidity conditions: when a person comes out to touch the leaves, the mp3 plays the corresponding audio.
+
+**Input**
+Ultrasonic Distance Sensor
+Soil Moisture Sensor
+DHT-11(Temperature sensor) 
+touch sensor
+
+**Output**
+CQRobot Speaker (Mp3 Player)
+thermostatic heating element
+RGB OLED Display
+WS2812 breakout Board
+
+First we referenced the libraries we had written, then we tested the distance, humidity and temperature sensors we had written and found that everything worked.
+
+During subsequent writing, the logic in the if and else took a long time and there were always problems with the OLED display screen font and a high refresh rate during the code run.
