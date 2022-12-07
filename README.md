@@ -114,4 +114,31 @@ WS2812 breakout Board
 
 First we referenced the libraries we had written, then we tested the distance, humidity and temperature sensors we had written and found that everything worked.
 
+![Cow24](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.1.jpeg "Cow24")
+
 During subsequent writing, the logic in the if and else took a long time and there were always problems with the OLED display screen font and a high refresh rate during the code run.
+
+![Cow25](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.2.jpeg "Cow25")
+
+We spent a few hours looking for a simple example to illustrate it on classmates and Arduino reference material and finally solved it in WAVEShare.
+
+![Cow26](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.3.jpeg "Cow26")
+
+Video Link:https://youtube.com/shorts/RYyjrQk3gOY
+
+Video Link:https://youtube.com/shorts/_3xgyoupt2Q
+
+Once this problem was solved, we ran the code again and found that the ceramic heater could not be heated successfully within 30 seconds, so to avoid this we set the heating time to 60 seconds.
+
+However, during the final test we again found that when the soil moisture sensor and the touch sensor were inserted into the soil at the same time, the touch sensor and the soil moisture formed a loop and interfered with each other, resulting in the data not being read correctly. The problem was solved by separating the touch sensor from the soil moisture sensor and attaching the touch sensor to the surface of the leaf with insulating tape in order for the data to work properly.
+
+We finally placed the connected sensors in the box, but the box was so small that many of the pins were broken, so we had to spend time reconnecting them, and after this was done we replaced the recorded audio with the file we had tested before, and placed the ceramic heating plate and the ws2812 lamp in the 3d printed leaf to re-run the circuit. Fortunately, the code works!
+
+![Cow27](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.4.jpeg "Cow27")
+
+![Cow28](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.5.jpeg "Cow28")
+
+
+Test Video Link:https://youtube.com/shorts/tmuZWZ4Tbio
+
+Final Video Link:https://youtube.com/shorts/GA_SZaBj9g8?feature=share
