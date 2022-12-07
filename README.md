@@ -34,13 +34,12 @@ After deciding what we wanted to make, we then completed the purchase of the mis
 
 However, as the school's appointment times were beyond what we could accept, we had to find the equipment for 3d printing at our own expense. During the first printing process, we opted for light-curing printing in order to pursue the ultimate effect of light transmission. However, the linear support structure of the model was unstable, so it led to the support collapsing during the printing process and the model could not be punched out smoothly.
 
-
 ![Cow8](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.2.png "Cow8")
-
 
 ![Cow9](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.3.jpeg "Cow9")
 
 For the second time, we chose TPU material in order to ensure that the model could be printed smoothly. During the printing process, we cut the structure of the model in order to guarantee the stability of the support before it could be printed smoothly.
 
+![Cow10](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.4.jpeg "Cow10")
 
-![Cow10](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.3.jpeg "Cow10")
+
