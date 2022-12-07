@@ -122,7 +122,7 @@ During subsequent writing, the logic in the if and else took a long time and the
 
 We spent a few hours looking for a simple example to illustrate it on classmates and Arduino reference material and finally solved it in WAVEShare.
 
-![Cow26](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.3.jpeg "Cow26")
+![Cow26](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week9.3.png "Cow26")
 
 Video Link:https://youtube.com/shorts/RYyjrQk3gOY
 
