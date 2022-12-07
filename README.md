@@ -28,6 +28,7 @@ In order to achieve better intimacy between people and plants, we replaced the p
 In addition, a leaf is extended around the plant, in which the previous ceramic heater is placed, and a breathing light is attached to the leaf for better visualisation of the plant's survival.
 
 **Week7 modelling 3d printing - planter making**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 After deciding what we wanted to make, we then completed the purchase of the missing sensors at amazon, but because of the long delivery time we decided to make the model of the plant and the pot first this week. We started by building out the model of the plant in c4d and 3d printing it.
 
@@ -64,6 +65,7 @@ The wood was then purchased to be cut and the box to hold the flower pots, as we
 Video Link: https://youtu.be/cBQJ8cE_FKw
 
 **Week 8 - Circuits and soldering**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In the last week, we have built the leaf model and the potting box, and at the same time the sensor equipment from amazon has arrived, but confusingly the ceramic heater we bought is 12v, and as Jin Yu and I both have mac computers borrowed a windows host from a friend to keep our computers from being damaged, so we were able to start. We decided to solder the circuits and connect the sensors and test if they worked this week. As Eagle, Kicad, and Tinkercad did not have the sensors we needed, we chose to use fritzing to draw out the wiring diagrams. and to list the individual interfaces in an Excel sheet.    
 
@@ -94,6 +96,7 @@ We then rewired and removed the excess solder from the Mp3 player with a solder 
 ![Cow23](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.8.jpeg "Cow23")
 
 **Week 9 - Code and testing**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 After testing the sensors last week, we continued to write and test the code in parallel this week and prepared this week's presentation by first editing the overall logic and documenting it in a documented form.
 
