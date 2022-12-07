@@ -70,24 +70,24 @@ In the last week, we have built the leaf model and the potting box, and at the s
 
 In fritzing, it was found that power could be applied and we then started to connect the soldered copper plates as well as the sensor connectors and connect the wiring.
 
-![Cow17](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.2.png "Cow17")
+![Cow17](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.2.jpeg "Cow17")
 
-![Cow18](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.3.png "Cow18")
+![Cow18](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.3.jpeg "Cow18")
 
 Making touch sensors
 
-![Cow19](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.4.png "Cow19")
+![Cow19](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.4.jpeg "Cow19")
 
-![Cow20](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.5.png "Cow20")
+![Cow20](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.5.jpeg "Cow20")
 
 After the circuit was connected, we powered up the Arduino board to the computer and found that the Arduino board lights did not come on, so we had to check each sensor wiring connection one by one.
 
-![Cow21](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.6.png "Cow21")
+![Cow21](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.6.jpeg "Cow21")
 
 It was found that some of the sensor's 5v was miswired to GND and that the Mp3 player was soldered with the 5v and GND solder stuck together during the soldering process.
 
-![Cow22](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.7.png "Cow22")
+![Cow22](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.7.jpeg "Cow22")
 
 We then rewired and removed the excess solder from the Mp3 player with a solder picker before powering it up.
 
-![Cow23](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.8.png "Cow23")
+![Cow23](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week8.8.jpeg "Cow23")
