@@ -18,6 +18,10 @@ In order to be able to better visualise the living state of the plant, we use a 
 
 However, when Jin Yu and I presented our project in class, our teacher and classmates suggested that we could monitor the plants' health in various ways, such as lighting, environment, and so on, and also asked us to look up some relevant literature for reference.
 
+![Cow5](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week6.4.jpeg "Cow5")
+
 In order to achieve better intimacy between people and plants, we replaced the previous matrix screen with an LCD display to implement monitoring of changes in plant temperature and humidity and attached touch sensors to the plants so that when people touch the plants, they will make a sound.
+
+![Cow6](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week6.4.jpeg "Cow6")
 
 In addition, a leaf is extended around the plant, in which the previous ceramic heater is placed, and a breathing light is attached to the leaf for better visualisation of the plant's survival.
