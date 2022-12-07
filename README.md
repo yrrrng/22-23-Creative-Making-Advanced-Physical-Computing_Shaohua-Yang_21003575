@@ -38,4 +38,4 @@ However, as the school's appointment times were beyond what we could accept, we 
 ![Cow8](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.2.png "Cow8")
 
 
-![Cow9](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.1.png "Cow9")
+![Cow9](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.3.jpeg "Cow9")
