@@ -30,3 +30,4 @@ In addition, a leaf is extended around the plant, in which the previous ceramic 
 
 After deciding what we wanted to make, we then completed the purchase of the missing sensors at amazon, but because of the long delivery time we decided to make the model of the plant and the pot first this week. We started by building out the model of the plant in c4d and 3d printing it.
 
+![Cow7](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week7.1.png "Cow7")
