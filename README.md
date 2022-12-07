@@ -14,6 +14,8 @@ Week 6:Concept, draft
 
 In order to be able to better visualise the living state of the plant, we use a series of physical means to give the plant a personified character and at the same time establish a living fragment between the human and the plant. We plan to use soil moisture sensors to monitor the dryness and wetness of the plant's soil. When the plant is in a state of dehydration, the thermal element, LCD screen, sound card, and LED matrix light will pick up the signal and transmit the temperature, sound, and expression respectively, in addition, we use distance sensors to bring the human and plant closer together. At the same time, the plant may say hi and when the person leaves the plant may say bye.
 
+![Cow4](https://github.com/yrrrng/22-23-Creative-Making-Advanced-Physical-Computing_Shaohua-Yang_21003575/raw/main/project%20image/week6.3.jpg "Cow4")
+
 However, when Jin Yu and I presented our project in class, our teacher and classmates suggested that we could monitor the plants' health in various ways, such as lighting, environment, and so on, and also asked us to look up some relevant literature for reference.
 
 In order to achieve better intimacy between people and plants, we replaced the previous matrix screen with an LCD display to implement monitoring of changes in plant temperature and humidity and attached touch sensors to the plants so that when people touch the plants, they will make a sound.
