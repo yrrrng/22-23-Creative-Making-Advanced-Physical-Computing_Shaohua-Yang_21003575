@@ -146,4 +146,4 @@ We finally placed the connected sensors in the box, but the box was so small tha
 
 Test Video Link:https://youtube.com/shorts/tmuZWZ4Tbio
 
-Final Video Link:https://youtube.com/shorts/GA_SZaBj9g8?feature=share
+Final Video Link:https://youtu.be/Ho3x091Kngw
